@@ -1,19 +1,58 @@
-# Lizard King
-Profile description
+# 🦎 Lizard King
 
-### Hi there 👋
+> building things at 3am that somehow still work in production
 
-<!--
-**Lizard-King101/Lizard-King101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 hey, i'm nick
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don’t really “learn tech” I pick something interesting and build until it works.
+
+most of my projects start as a random idea and end up way more complex than they had any right to be.
+
+---
+
+### ⚙️ what i do
+
+- design systems that don’t fall apart under pressure  
+- build across the stack (frontend → backend → infra → contracts)  
+- turn “this would be cool” into something real  
+
+---
+
+### 🧠 current state
+
+- probably working on 2–4 things at once  
+- one of them is clean and well-structured  
+- the others are… evolving  
+
+---
+
+### 🔥 areas i gravitate toward
+
+- blockchain / smart contracts / token systems  
+- real-time & distributed systems  
+- dev tooling & automation  
+- game systems and weird interaction layers  
+
+---
+
+### 🧪 recent rabbit holes
+
+- phoneme-based voice synthesis pipelines  
+- low-overhead architectures (less backend, more cleverness)  
+- pushing systems until they break, then fixing them properly  
+
+---
+
+### 🛠️ philosophy
+
+- build first, refine later  
+- understand the system, not just the tools  
+- complexity is fine — **uncontrolled** complexity isn’t  
+
+---
+
+### 📫 reach out
+
+if you're building something interesting or slightly unhinged, i’m probably in
